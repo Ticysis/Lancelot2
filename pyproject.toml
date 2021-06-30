@@ -2,7 +2,7 @@
 name = "Lancelot2"
 version = "0.1.0"
 description = "Lancelot2"
-authors = []
+authors = [2392320844]
 readme = "README.md"
 
 [tool.poetry.dependencies]
